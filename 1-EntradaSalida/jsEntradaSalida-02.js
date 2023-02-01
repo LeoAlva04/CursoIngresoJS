@@ -8,7 +8,7 @@ function mostrar()
 	                                    //asignacion (=): todo lo que tenga a la derecha pasa a la izquierda 
 										//nombre = "Yanina";
 	
-	nombre=prompt("Ingrese su nombre")	// prompt = abre un cuadro de texto 
+	nombre=prompt("Ingrese su nombre");	// prompt = abre un cuadro de texto 
 	
 	alert(nombre);						// todo lo que este entre comillas es mostrado literalmente
 	 
