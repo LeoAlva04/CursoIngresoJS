@@ -5,7 +5,7 @@ mostrar el resulto por medio de "ALERT"
 ej.: "la Resta es 750"
 Alvarez leonaro Sebastian Div X
 */ 
-
+ //PROHIBIDO UASR VARIABLES GLOBALES!!!!!!!
 
 	var  numeroUno;
 	var  numeroDos;

@@ -19,8 +19,16 @@ function sumar()
 	numeroUno = parseInt(numeroUno);
 	numeroDos = parseInt(numeroDos);
 
+
+	/*	
+		//forma corta de hacer el parseo
+		numeroUno = parseInt(document.getElementById("txtIdNumeroUno").value);
+		numeroDos = parseInt(document.getElementById("txtIdNumeroDos").value);
+
+	*/	
+
 	//aca realiza la suma y se carga en la variable result (resultado)
-	result = ( numeroUno + numeroDos );
+	result = numeroUno + numeroDos ;
 
 	//el resultado lo muestro con alert
 	alert(result);
